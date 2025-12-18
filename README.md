@@ -19,18 +19,13 @@
   <li> Constantly experimenting with real-world AI use cases</li>
 </ul>
 
-<h3>🔭 Currently Working On</h3>
+<h3> Currently Working On</h3>
 <ul>
   <li>LLM-powered backend systems with retrieval & reasoning</li>
   <li>RAG pipelines, vector search, agent-based workflows</li>
 </ul>
 
-<h3> Open To</h3>
-<ul>
-  <li>AI / ML internships</li>
-  <li>Research collaborations</li>
-  <li>Open-source contributions</li>
-</ul>
+
 
 <h3>🔗 Connect with Me</h3>
 <p>
